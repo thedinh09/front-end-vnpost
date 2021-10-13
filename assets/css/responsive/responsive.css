@@ -1,0 +1,15 @@
+@media (max-width: 1000px) {
+.navbar .navbar-header button {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    font-size: 12px;
+    outline: none;
+    border: none;
+  }
+}

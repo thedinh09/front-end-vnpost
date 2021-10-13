@@ -1,0 +1,81 @@
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.d-flex {
+  display: flex;
+}
+.col-right {
+  padding-right: 0px !important;
+}
+.col-left {
+  padding-left: 0px !important;
+}
+.hotline-header {
+  color: #333;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.pull-right {
+  float: none;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+.pull-left {
+  float: left;
+}
+* ul,
+li {
+  list-style: none;
+  text-decoration: none;
+}
+* img {
+  border: 0;
+  vertical-align: middle;
+}
+a,
+a:focus,
+a:hover,
+a:active {
+  outline: 0;
+  text-decoration: none;
+}
+.clear {
+  clear: both;
+  height: 0;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+}
+* ul,
+li {
+  list-style: none;
+  text-decoration: none;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+ol,
+ul,
+dl {
+  margin-top: 0;
+  margin-bottom: 0 !important;
+}
+a, a:focus, a:hover, a:active {
+    outline: 0 !important;
+    text-decoration: none !important;
+}
+/* .container{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+} */
+* label{
+  margin-bottom: -5px !important;
+}
+/* .clear-fix{
+  line-height: 0;
+  clear: both;
+  overflow: hidden;
+} */
+
